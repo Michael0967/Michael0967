@@ -26,6 +26,7 @@ I'm <span style="color: #2E7D32;">**Michael Stiven Rojas**</span>, a passionate 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git">
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat" alt="Webpack">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux">
+  <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" alt="MacOS">
 </div>
 
 

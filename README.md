@@ -12,7 +12,7 @@ I'm <span style="color: #2E7D32;">**Michael Stiven Rojas**</span>, a passionate 
 
 
 📧 **Email**: [msrojas265@gmail.com](mailto:msrojas265@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/michael-stiven-rojas-rivas-527a41176](https://linkedin.com/in/michael-stiven-rojas-rivas-527a41176)
+🔗 **LinkedIn**: [in/michael](https://linkedin.com/in/michael-stiven-rojas-rivas-527a41176)
 
 #### Languages and Tools
 

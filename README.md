@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Michael Stiven Rojas**, a passionate **QA Specialist** dedicated to delivering top-notch quality and functionality in applications. With a keen eye for detail and a commitment to excellence, I thrive on ensuring that every product meets the highest standards before reaching users.
+I'm <span style="color: #2E7D32;">**Michael Stiven Rojas**</span>, a passionate **QA Specialist** dedicated to delivering top-notch quality and functionality in applications. With a keen eye for detail and a commitment to excellence, I thrive on ensuring that every product meets the highest standards before reaching users.
 
 ## 🌟 Why Work with Me?
 
